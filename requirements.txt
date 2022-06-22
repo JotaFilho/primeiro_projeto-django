@@ -8,6 +8,7 @@ conda==4.13.0
 conda-package-handling @ file:///home/conda/feedstock_root/build_artifacts/conda-package-handling_1649385069444/work
 cryptography @ file:///home/conda/feedstock_root/build_artifacts/cryptography_1652967134882/work
 Django==4.0.5
+gunicorn==20.1.0
 idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1642433548627/work
 pycosat @ file:///home/conda/feedstock_root/build_artifacts/pycosat_1649384802055/work
 pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1636257122734/work
@@ -19,3 +20,4 @@ six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
 sqlparse==0.4.2
 tqdm @ file:///home/conda/feedstock_root/build_artifacts/tqdm_1649051611147/work
 urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1647489083693/work
+whitenoise==6.2.0
