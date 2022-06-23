@@ -5,19 +5,26 @@ cffi @ file:///home/conda/feedstock_root/build_artifacts/cffi_1636046055389/work
 charset-normalizer @ file:///home/conda/feedstock_root/build_artifacts/charset-normalizer_1644853463426/work
 colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1655412516417/work
 conda==4.13.0
-conda-package-handling @ file:///home/conda/feedstock_root/build_artifacts/conda-package-handling_1649385069444/work
 cryptography @ file:///home/conda/feedstock_root/build_artifacts/cryptography_1652967134882/work
 Django==4.0.5
+django-cors-headers==3.13.0
 gunicorn==20.1.0
 idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1642433548627/work
+joblib==1.1.0
+numpy==1.23.0
+package-name==0.1
 pycosat @ file:///home/conda/feedstock_root/build_artifacts/pycosat_1649384802055/work
 pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1636257122734/work
 pyOpenSSL @ file:///home/conda/feedstock_root/build_artifacts/pyopenssl_1643496850550/work
 PySocks @ file:///home/conda/feedstock_root/build_artifacts/pysocks_1648857263093/work
 requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1654796491502/work
 ruamel-yaml-conda @ file:///home/conda/feedstock_root/build_artifacts/ruamel_yaml_1653464393916/work
+scikit-learn==1.1.1
+scipy==1.8.1
 six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
+sklearn==0.0
 sqlparse==0.4.2
+threadpoolctl==3.1.0
 tqdm @ file:///home/conda/feedstock_root/build_artifacts/tqdm_1649051611147/work
 urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1647489083693/work
 whitenoise==6.2.0
