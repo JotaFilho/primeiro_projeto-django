@@ -5,6 +5,7 @@ cffi @ file:///home/conda/feedstock_root/build_artifacts/cffi_1636046055389/work
 charset-normalizer @ file:///home/conda/feedstock_root/build_artifacts/charset-normalizer_1644853463426/work
 colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1655412516417/work
 conda==4.13.0
+conda-package-handling @ file:///home/conda/feedstock_root/build_artifacts/conda-package-handling_1649385069444/work
 cryptography @ file:///home/conda/feedstock_root/build_artifacts/cryptography_1652967134882/work
 Django==4.0.5
 django-cors-headers==3.13.0
